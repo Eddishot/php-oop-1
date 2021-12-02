@@ -66,7 +66,7 @@ $newMovie3 = new Movie("Il Labirinto del Fauno", "Drammatico, Horror, Fantastico
 <body>
     <div>
         <h1>
-            <?php echo $newMovie -> getTitle()  ?>
+            <?php echo $newMovie -> getTitle() ?>
         </h1>
         <ul>
             
